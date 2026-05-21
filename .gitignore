@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.kiwoom_token.json
+
